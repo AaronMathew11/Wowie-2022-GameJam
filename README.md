@@ -10,5 +10,4 @@ Let's all help Toto get home together!!!
 
 <img width="1061" alt="TOTO" src="https://user-images.githubusercontent.com/83592463/184944407-559b6245-be2c-49be-ad52-052050b34136.png">
 
-Link for the game:-
-https://vivianjoseph123.itch.io/what-about-toto
+
